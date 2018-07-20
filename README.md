@@ -53,6 +53,8 @@ See [HackerOne](https://hackerone.com/electroneum).
 
 ## Installing Electroneum from a Package
 
+sudo apt install build-essential cmake pkg-config libboost-all-dev libssl-dev libunbound-dev
+
 Packages are available for
 
 * Ubuntu and [snap supported](https://snapcraft.io/docs/core/install) systems, via a community contributed build.
